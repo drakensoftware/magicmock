@@ -1,6 +1,6 @@
 {
   "name": "@drakensoftware/magicmock",
-  "version": "1.6.2",
+  "version": "1.7.0",
   "description": "Create your mocks automagically",
   "main": "dist/index.js",
   "browser": "dist/polyfill.js",

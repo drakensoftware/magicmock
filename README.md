@@ -1,5 +1,17 @@
 # 🧙♂️ MagicMock for Jest: Automated Function Mocking
 
+# ⚠️ Deprecation Notice
+
+The **MagicMock** project is no longer maintained.
+
+You can achieve the same functionality (recording and replaying mocks) with [PollyJS](https://netflix.github.io/pollyjs/), which provides a more complete and actively maintained solution.
+
+We recommend migrating to **PollyJS** for all new and existing projects.
+
+Thank you for using MagicMock! 🙏
+
+---
+
 MagicMock is like a *smart recording device* for your software tests. Here's what it does in plain terms:
 
 1. **First Test Run**
